@@ -4,9 +4,7 @@ This is a Python script that uses Selenium to scrape product information from a 
 
 ## Requirements
 To use this script, you'll need to have the following software installed on your computer:
-Python 3
-Selenium
-Chrome or Firefox web browser
+Python 3, Selenium, Chrome or Firefox web browser
 
 ## How to use
 Clone this repository to your local machine.

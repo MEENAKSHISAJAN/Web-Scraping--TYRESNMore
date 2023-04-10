@@ -1,6 +1,6 @@
 # Web-Scraping--TYRESNMore
 ## Selenium Web Scraper
-This is a Python script that uses Selenium to scrape product information from a website. The script extracts the product name, company, price, and features for each product on the website.
+This is a Python script that uses Selenium to scrape product information from the website TYRESNMore.com . The script extracts the product name, company, price, and features for each product on the website.
 
 ## Requirements
 To use this script, you'll need to have the following software installed on your computer:
